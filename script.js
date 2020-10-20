@@ -1,5 +1,8 @@
 const audioElement = document.getElementById('audio');
 const btn = document.getElementById('button');
+const video = document.getElementById('video');
+
+video.play();
 
 // Disable-Enabble Button
 function toggleButton(){
